@@ -32,7 +32,10 @@
 
 ###
 
-<p align="left">I'm  Soham a passionate developer  from Pune trying to contribute in open source projects and looking for opportunities.<br><br>- 🔭 I’m working on Memora AI<br>- 📚 I'm currently learning  Artificial Intelligence</p>
+<p align="left">Hi, I’m Soham Bhalerao, a passionate full-stack developer with a strong focus on building smart, scalable, and impactful web applications. My current project, Memora AI, is a face-recognition-powered photo-sharing platform designed to make event memories smarter and more personal.
+I’m deeply interested in emerging technologies like AI and Blockchain, and I'm currently working on projects that combine both to create smarter, more secure platforms.
+
+Always eager to learn, collaborate, and innovate.</p>
 
 ###
 
